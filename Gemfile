@@ -13,6 +13,7 @@ end
 group :test do
   gem 'selenium', '~> 0.2.11'
   gem 'capybara', '~> 2.4.1'
+  gem 'factory_girl_rails', '~> 4.4.1'
 end
 
 gem 'sass-rails', '~> 4.0.3'
